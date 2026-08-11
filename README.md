@@ -1,11 +1,12 @@
 # Javascript-Fundamental
 
 # 1. String
-String digunakan untuk menyimpan teks atau kumpulan karakter. String ditulis menggunakan tanda kutip "...", '...', atau `...`.
+String digunakan untuk menyimpan teks atau kumpulan karakter. String ditulis menggunakan tanda kutip "...", '...', atau `...`.<br>
 <img src = "./Asset/String.png/">
 
 # 2. Number
-Number digunakan untuk menyimpan angka, baik bilangan bulat maupun desimal.
+Number digunakan untuk menyimpan angka, baik bilangan bulat maupun desimal.<br>
+<img src = "./Asset/Number.png/">
 
 # 3. Boolean
 Boolean hanya memiliki dua nilai, yaitu:
