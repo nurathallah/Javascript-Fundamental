@@ -2,6 +2,7 @@
 
 # 1. String
 String digunakan untuk menyimpan teks atau kumpulan karakter. String ditulis menggunakan tanda kutip "...", '...', atau `...`.
+<img src = "./Asset/String.png/">
 
 # 2. Number
 Number digunakan untuk menyimpan angka, baik bilangan bulat maupun desimal.
